@@ -1,0 +1,225 @@
+<div class="page-wrap">
+
+  <!-- ===== AUTH PAGE ===== -->
+  <div class="auth-page" *ngIf="!isLoggedIn">
+    <div class="auth-left">
+      <div class="auth-brand">
+        <img src="assets/logo.png" alt="RupeeFlow" class="auth-logo" />
+        <span class="auth-brand-name">RupeeFlow</span>
+        <button class="theme-text-btn auth-theme-btn" (click)="toggleTheme()">{{isDarkMode ? 'Light' : 'Dark'}}</button>
+      </div>
+      <h2 class="auth-tagline">Track every rupee,<br>own every month.</h2>
+      <p class="auth-sub">Simple expense tracking built for India.</p>
+    </div>
+
+    <div class="auth-right">
+      <div class="auth-box">
+        <!-- Tabs -->
+        <div class="auth-tabs">
+          <button [class.active]="authMode === 'login'" (click)="authMode='login'; errorMsg=''">Login</button>
+          <button [class.active]="authMode === 'register'" (click)="authMode='register'; errorMsg=''">Register</button>
+        </div>
+
+        <!-- Login Form -->
+        <div *ngIf="authMode === 'login'" class="auth-form">
+          <div class="field">
+            <label>Username or Email</label>
+            <input type="text" [(ngModel)]="loginName" placeholder="e.g. rahul@email.com" (keyup.enter)="login()" />
+          </div>
+          <div class="field">
+            <label>Password</label>
+            <input type="password" [(ngModel)]="loginPassword" placeholder="••••••••" (keyup.enter)="login()" />
+          </div>
+          <div class="auth-error" *ngIf="errorMsg">{{errorMsg}}</div>
+          <button class="btn-main" (click)="login()" [disabled]="isLoading">
+            <span *ngIf="!isLoading">Login →</span>
+            <span *ngIf="isLoading">Signing in…</span>
+          </button>
+        </div>
+
+        <!-- Register Form -->
+        <div *ngIf="authMode === 'register'" class="auth-form">
+          <div class="field">
+            <label>Full Name</label>
+            <input type="text" [(ngModel)]="regName" placeholder="Rahul Sharma" />
+          </div>
+          <div class="field">
+            <label>Email ID</label>
+            <input type="email" [(ngModel)]="regEmail" placeholder="rahul@email.com" />
+          </div>
+          <div class="field">
+            <label>Password</label>
+            <input type="password" [(ngModel)]="regPassword" placeholder="Create a password" />
+          </div>
+          <div class="auth-error" *ngIf="errorMsg">{{errorMsg}}</div>
+          <button class="btn-main" (click)="register()" [disabled]="isLoading">
+            <span *ngIf="!isLoading">Create Account →</span>
+            <span *ngIf="isLoading">Creating…</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== DASHBOARD PAGE ===== -->
+  <div class="dashboard-page" *ngIf="isLoggedIn">
+
+    <!-- Topbar -->
+    <header class="topbar">
+      <div class="topbar-left">
+        <img src="assets/logo.png" alt="RupeeFlow" class="nav-logo" />
+        <span class="nav-brand">RupeeFlow</span>
+      </div>
+      <div class="topbar-right">
+        <button class="theme-text-btn" (click)="toggleTheme()">{{isDarkMode ? 'Light' : 'Dark'}}</button>
+        <span class="user-chip">👤 {{userName}}</span>
+        <button class="btn-logout" (click)="logout()">Logout</button>
+      </div>
+    </header>
+
+    <div class="dashboard-body">
+
+      <!-- LEFT COLUMN: Add Expense -->
+      <aside class="sidebar">
+        <div class="sidebar-card">
+          <h3 class="sidebar-title">Add Expense</h3>
+
+          <div class="field">
+            <label>Amount (₹)</label>
+            <div class="rupee-input">
+              <span>₹</span>
+              <input type="number" [(ngModel)]="newAmount" placeholder="0" min="1" />
+            </div>
+          </div>
+
+          <div class="field">
+            <label>Category</label>
+            <select [(ngModel)]="newCategoryId">
+              <option [value]="0" disabled>Select category</option>
+              <option *ngFor="let c of categories" [value]="c.categoryId">{{c.icon}} {{c.title}}</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label>Date</label>
+            <input type="date" [(ngModel)]="newDate" />
+          </div>
+
+          <div class="field">
+            <label>Note <span class="opt">(optional)</span></label>
+            <input type="text" [(ngModel)]="newNote" placeholder="Swiggy, petrol, etc." />
+          </div>
+
+          <div class="field-error" *ngIf="errorMsg">{{errorMsg}}</div>
+          <button class="btn-add" (click)="addExpense()">+ Add Expense</button>
+        </div>
+
+        <!-- Spending by Category Chart -->
+        <div class="sidebar-card chart-card" *ngIf="allTransactions.length > 0">
+          <h3 class="sidebar-title">By Category</h3>
+          <canvas baseChart [data]="barChartData" [options]="barChartOptions" [type]="barChartType">
+          </canvas>
+        </div>
+      </aside>
+
+      <!-- RIGHT COLUMN: Expense Log -->
+      <main class="main-content">
+
+        <!-- Summary Strip -->
+        <div class="summary-strip">
+          <div class="strip-item">
+            <div class="strip-label">Total Spent</div>
+            <div class="strip-value red">₹{{filteredTotal.toLocaleString('en-IN')}}</div>
+          </div>
+          <div class="strip-item">
+            <div class="strip-label">Entries Shown</div>
+            <div class="strip-value">{{filteredCount}}</div>
+          </div>
+        </div>
+
+        <!-- Filter Bar -->
+        <div class="filter-bar">
+          <div class="filter-row">
+            <div class="filter-group">
+              <label>Category</label>
+              <select [(ngModel)]="filterCategory" (ngModelChange)="applyFilters()">
+                <option [value]="0">All Categories</option>
+                <option *ngFor="let c of categories" [value]="c.categoryId">{{c.icon}} {{c.title}}</option>
+              </select>
+            </div>
+
+            <div class="filter-group">
+              <label>Month</label>
+              <select [(ngModel)]="filterMonth" (ngModelChange)="applyFilters()">
+                <option value="">All Time</option>
+                <option *ngFor="let m of months" [value]="m.value">{{m.label}}</option>
+              </select>
+            </div>
+
+            <div class="filter-group">
+              <label>From Date</label>
+              <input type="date" [(ngModel)]="filterDateFrom" (ngModelChange)="applyFilters()" />
+            </div>
+
+            <div class="filter-group">
+              <label>To Date</label>
+              <input type="date" [(ngModel)]="filterDateTo" (ngModelChange)="applyFilters()" />
+            </div>
+
+            <div class="filter-group">
+              <label>Sort by</label>
+              <select [(ngModel)]="filterSort" (ngModelChange)="applyFilters()">
+                <option value="date_desc">Newest First</option>
+                <option value="date_asc">Oldest First</option>
+                <option value="amount_desc">Highest Amount</option>
+                <option value="amount_asc">Lowest Amount</option>
+              </select>
+            </div>
+
+            <div class="filter-group">
+              <label>Search Note</label>
+              <input type="text" [(ngModel)]="filterNote" (input)="applyFilters()" placeholder="e.g. Zomato" />
+            </div>
+          </div>
+
+          <button class="btn-clear" (click)="clearFilters()">✕ Clear Filters</button>
+        </div>
+
+        <!-- Expense Table -->
+        <div class="expense-table-wrap">
+          <table class="expense-table" *ngIf="filteredTransactions.length > 0">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Category</th>
+                <th>Note</th>
+                <th>Amount</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let t of filteredTransactions">
+                <td class="td-date">{{formatDate(t.date)}}</td>
+                <td class="td-cat">
+                  <span class="cat-pill">{{getCategoryName(t)}}</span>
+                </td>
+                <td class="td-note">{{t.note || '—'}}</td>
+                <td class="td-amt">₹{{t.amount.toLocaleString('en-IN')}}</td>
+                <td class="td-del">
+                  <button class="btn-del" (click)="deleteExpense(t.transactionId)" title="Delete">✕</button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+          <div class="empty-state" *ngIf="filteredTransactions.length === 0">
+            <div class="empty-icon">📭</div>
+            <p>No expenses match your filters.<br>Try clearing the filters or add one above.</p>
+          </div>
+        </div>
+
+      </main>
+    </div>
+  </div>
+
+</div>

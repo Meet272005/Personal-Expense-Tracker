@@ -1,0 +1,263 @@
+/* Global Styles — RupeeFlow */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #f5f5f3;
+    color: #1c1c1e;
+    -webkit-font-smoothing: antialiased;
+    transition: background 0.3s, color 0.3s;
+}
+
+/* ===== DARK MODE — applied on body.dark ===== */
+body.dark {
+    background: #141414;
+    color: #e8e8e8;
+}
+
+/* Dark: Auth page */
+body.dark .auth-left {
+    background: #1a1a1a;
+    border-right: 1px solid #2c2c2c;
+}
+
+body.dark .auth-brand-name {
+    color: #eee;
+}
+
+body.dark .auth-tagline {
+    color: #f0f0f0;
+}
+
+body.dark .auth-sub {
+    color: #888;
+}
+
+body.dark .auth-right {
+    background: #141414;
+}
+
+body.dark .auth-box {
+    background: #1e1e1e;
+    border-color: #2c2c2c;
+}
+
+body.dark .auth-tabs {
+    border-color: #2c2c2c;
+}
+
+body.dark .auth-tabs button {
+    color: #666;
+}
+
+body.dark .auth-tabs button.active {
+    color: #e55a4e;
+    border-bottom-color: #e55a4e;
+}
+
+/* Dark: Inputs */
+body.dark input,
+body.dark select,
+body.dark input[type=text],
+body.dark input[type=email],
+body.dark input[type=password],
+body.dark input[type=number],
+body.dark input[type=date] {
+    background: #262626;
+    border-color: #333;
+    color: #e8e8e8;
+}
+
+body.dark input::placeholder {
+    color: #888;
+}
+
+body.dark input:focus,
+body.dark select:focus {
+    border-color: #555;
+    background: #2a2a2a;
+}
+
+body.dark label {
+    color: #aaa;
+}
+
+body.dark .opt {
+    color: #888;
+}
+
+/* Dark: Topbar */
+body.dark .topbar {
+    background: #1a1a1a;
+    border-color: #2c2c2c;
+}
+
+body.dark .nav-brand {
+    color: #f0f0f0;
+}
+
+body.dark .user-chip {
+    background: #262626;
+    border-color: #333;
+    color: #aaa;
+}
+
+body.dark .btn-logout {
+    background: #1e1e1e;
+    border-color: #3a3a3a;
+    color: #e55a4e;
+}
+
+body.dark .btn-logout:hover {
+    background: #2a1a1a;
+}
+
+/* Dark: Dashboard body */
+body.dark .dashboard-page {
+    background: #141414;
+}
+
+body.dark .sidebar-card {
+    background: #1e1e1e;
+    border-color: #2c2c2c;
+}
+
+body.dark .sidebar-title {
+    color: #ccc;
+}
+
+body.dark .rupee-input {
+    background: #262626;
+    border-color: #333;
+}
+
+body.dark .rupee-input span {
+    color: #888;
+}
+
+body.dark .rupee-input input {
+    background: transparent;
+    color: #e8e8e8;
+}
+
+body.dark .rupee-input:focus-within {
+    border-color: #555;
+    background: #2a2a2a;
+}
+
+body.dark .btn-add {
+    background: #e55a4e;
+}
+
+body.dark .btn-add:hover {
+    background: #c0392b;
+}
+
+/* Dark: Summary strip */
+body.dark .strip-item {
+    background: #1e1e1e;
+    border-color: #2c2c2c;
+}
+
+body.dark .strip-label {
+    color: #666;
+}
+
+body.dark .strip-value {
+    color: #e8e8e8;
+}
+
+body.dark .strip-value.red {
+    color: #e55a4e;
+}
+
+/* Dark: Filter bar */
+body.dark .filter-bar {
+    background: #1e1e1e;
+    border-color: #2c2c2c;
+}
+
+body.dark .btn-clear {
+    background: #262626;
+    border-color: #333;
+    color: #aaa;
+}
+
+body.dark .btn-clear:hover {
+    background: #2c2c2c;
+}
+
+/* Dark: Table */
+body.dark .expense-table-wrap {
+    background: #1e1e1e;
+    border-color: #2c2c2c;
+}
+
+body.dark .expense-table thead tr {
+    background: #242424;
+    border-color: #2c2c2c;
+}
+
+body.dark .expense-table th {
+    color: #aaa;
+}
+
+body.dark .expense-table tbody tr {
+    border-color: #262626;
+}
+
+body.dark .expense-table tbody tr:hover {
+    background: #242424;
+}
+
+body.dark .expense-table td,
+body.dark .expense-table tbody tr td {
+    color: #ddd !important;
+}
+
+body.dark .td-date {
+    color: #aaa !important;
+}
+
+body.dark .td-note {
+    color: #aaa !important;
+}
+
+body.dark .td-amt {
+    color: #e55a4e !important;
+}
+
+body.dark .cat-pill {
+    background: #2c2c2c !important;
+    color: #ccc !important;
+}
+
+body.dark .btn-del {
+    color: #888;
+}
+
+body.dark .btn-del:hover {
+    background: #2a1a1a;
+    border-color: #4a2020;
+    color: #e55a4e;
+}
+
+body.dark .empty-state,
+body.dark .empty-state p {
+    color: #aaa;
+}
+
+/* Dark: Main btn */
+body.dark .btn-main {
+    background: #c0392b;
+}
+
+body.dark .btn-main:hover {
+    background: #a93226;
+}
