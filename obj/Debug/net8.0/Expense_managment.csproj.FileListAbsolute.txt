@@ -1,0 +1,314 @@
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\appsettings.Development.json
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\appsettings.json
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Expense_managment.staticwebassets.endpoints.json
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Expense_managment.exe
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Expense_managment.deps.json
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Expense_managment.runtimeconfig.json
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Expense_managment.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Expense_managment.pdb
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.csproj.AssemblyReference.cache
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.AssemblyInfoInputs.cache
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.AssemblyInfo.cs
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.csproj.CoreCompileInputs.cache
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.MvcApplicationPartsAssemblyInfo.cs
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.MvcApplicationPartsAssemblyInfo.cache
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\scopedcss\bundle\Expense_managment.styles.css
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets.build.json
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets.development.json
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets\msbuild.Expense_managment.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets\msbuild.Expense_managment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets\msbuild.build.Expense_managment.props
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Expense_managment.props
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Expense_managment.props
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets.pack.json
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_.ABDB3CE7.Up2Date
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.dll
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\refint\Expense_managment.dll
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.pdb
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\Expense_managment.genruntimeconfig.cache
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\ref\Expense_managment.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Azure.Core.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Azure.Identity.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Humanizer.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.CodeDom.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Memory.Data.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\dotnet project 11\Expense_managment\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\CsvHelper.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\HarfBuzzSharp.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\QuestPDF.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\SkiaSharp.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\System.Linq.Async.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\dotnet project 11\Expense_managment\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\appsettings.Development.json
+D:\Expense_managment\bin\Debug\net8.0\appsettings.json
+D:\Expense_managment\bin\Debug\net8.0\Expense_managment.staticwebassets.endpoints.json
+D:\Expense_managment\bin\Debug\net8.0\Expense_managment.exe
+D:\Expense_managment\bin\Debug\net8.0\Expense_managment.deps.json
+D:\Expense_managment\bin\Debug\net8.0\Expense_managment.runtimeconfig.json
+D:\Expense_managment\bin\Debug\net8.0\Expense_managment.dll
+D:\Expense_managment\bin\Debug\net8.0\Expense_managment.pdb
+D:\Expense_managment\bin\Debug\net8.0\Azure.Core.dll
+D:\Expense_managment\bin\Debug\net8.0\Azure.Identity.dll
+D:\Expense_managment\bin\Debug\net8.0\CsvHelper.dll
+D:\Expense_managment\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\Humanizer.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Expense_managment\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Expense_managment\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Expense_managment\bin\Debug\net8.0\QuestPDF.dll
+D:\Expense_managment\bin\Debug\net8.0\SkiaSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+D:\Expense_managment\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Expense_managment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Expense_managment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Expense_managment\bin\Debug\net8.0\System.CodeDom.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Expense_managment\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Linq.Async.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Expense_managment\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Expense_managment\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Expense_managment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.csproj.AssemblyReference.cache
+D:\Expense_managment\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.AssemblyInfoInputs.cache
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.AssemblyInfo.cs
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.csproj.CoreCompileInputs.cache
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.MvcApplicationPartsAssemblyInfo.cs
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.MvcApplicationPartsAssemblyInfo.cache
+D:\Expense_managment\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Expense_managment\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Expense_managment\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Expense_managment\obj\Debug\net8.0\scopedcss\bundle\Expense_managment.styles.css
+D:\Expense_managment\obj\Debug\net8.0\staticwebassets.build.json
+D:\Expense_managment\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Expense_managment\obj\Debug\net8.0\staticwebassets.development.json
+D:\Expense_managment\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Expense_managment\obj\Debug\net8.0\Expense_.ABDB3CE7.Up2Date
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.dll
+D:\Expense_managment\obj\Debug\net8.0\refint\Expense_managment.dll
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.pdb
+D:\Expense_managment\obj\Debug\net8.0\Expense_managment.genruntimeconfig.cache
+D:\Expense_managment\obj\Debug\net8.0\ref\Expense_managment.dll
+D:\Expense_managment\bin\Debug\net8.0\frontend\angular.json
+D:\Expense_managment\bin\Debug\net8.0\frontend\package-lock.json
+D:\Expense_managment\bin\Debug\net8.0\frontend\package.json
+D:\Expense_managment\bin\Debug\net8.0\frontend\tsconfig.app.json
+D:\Expense_managment\bin\Debug\net8.0\frontend\tsconfig.json
+D:\Expense_managment\bin\Debug\net8.0\frontend\tsconfig.spec.json
